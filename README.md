@@ -1,2 +1,3 @@
-### Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heenluy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Header image](https://raw.githubusercontent.com/jayrajroshan/jayrajroshan/master/Assets/GitHub_Header.jpg)
+I'm a tech enthusiast who loves to learn about new things. Connect with me on LinkedIn.
+
