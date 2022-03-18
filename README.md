@@ -5,6 +5,6 @@ I'm a tech enthusiast who loves to learn about new things. Connect with me on Li
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:heenluy@gmail.com)](mailto:heenluy@gmail.com)
 <br>
 <br>
-![skills](https://user-images.githubusercontent.com/83776695/158038344-7ce15e15-7064-41b4-81b4-cd2a170edefa.png)
+![git-capa](https://user-images.githubusercontent.com/83776695/159016556-e17a7863-0c72-4d07-8619-57dd04abc825.png)
 
 
