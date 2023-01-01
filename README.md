@@ -5,6 +5,6 @@
 
 > Enfim, tenho atualmente estudado os módulos do Spring Cloud e utilizado alguns serviços do Google Cloud Plataform: e esse será o meu foco pelos próximos meses, basicamente.
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,gradle,maven,hibernate,postgresql,mongodb,spring,linux,grafana,gcp,angular,figma&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,hibernate,postgresql,mongodb,spring,linux,kubernetes,docker,aws,angular,figma&theme=dark)](https://skillicons.dev)
 
 
